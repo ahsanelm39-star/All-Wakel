@@ -16,7 +16,7 @@ A modern and responsive landing page for a tech company, designed to showcase se
 
 ## 🌐 Demo
 🔗 **Live Preview:** [View Demo](https://landing-page-phi-sand.vercel.app/)  
-📦 **Repository:** [GitHub Repo](https://github.com/ahsanelm39-star/HTML-CSS-JS-Landing-Page)
+📦 **Repository:** [GitHub Repo](https://github.com/ahsanelm39-star/All-Wakel)
 
 ---
 
