@@ -32,6 +32,8 @@ A modern and responsive landing page for a tech company, designed to showcase se
 | Category | Tools |
 |-----------|--------|
 | Frontend | HTML - CSS - JS |
+| icons | font awesome |
+| Deployment | Netlify |
 
 ---
 
