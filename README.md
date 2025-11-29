@@ -50,4 +50,5 @@ Clone the project and install dependencies:
 
 ```bash
 git clone https://github.com/ahsanelm39-star/HTML-CSS-JS-Landing-Page.git
-npm install
+```
+then install font awesome
