@@ -49,6 +49,6 @@ A modern and responsive landing page for a tech company, designed to showcase se
 Clone the project and install dependencies:
 
 ```bash
-git clone https://github.com/ahsanelm39-star/HTML-CSS-JS-Landing-Page.git
+git clone https://github.com/ahsanelm39-star/All-Wakel.git
 ```
 then install font awesome
